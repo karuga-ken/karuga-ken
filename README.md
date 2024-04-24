@@ -1,5 +1,3 @@
-![Chill Coding Lo-fi Animation](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg)
-
 
 <h1 align="center">Hi 👋, I'm Karuga Mbugua💻</h1>
 <h3 align="center">A passionate Full Stack Developer from Nairobi, Kenya</h3>
